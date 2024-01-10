@@ -6,4 +6,4 @@
 
 🖍️ My languages include C, Java, C++, and Python 
 
-✉️ To contact me, e-mail me at: nma76@sfu.ca
+✉️ You can reach me at: nma76@sfu.ca
