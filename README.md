@@ -4,6 +4,6 @@
 
 📚 Next thing I'd love to learn would definitely be mobile app development. Whether that be Android or IOS, I think I'd enjoy it regardless.
 
-🖍️ My languages include C, Java, C++, and Python 
+🖍️ My main languages include C, Java, Python, C++, and Haskell.
 
 ✉️ You can reach me at: nma76@sfu.ca
