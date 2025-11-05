@@ -1,4 +1,4 @@
-🌟 Hi! I’m Nicole, and I'm a 4th year CS student at SFU.
+🌟 Hi! I’m Nicole, a 4th year CS student at SFU.
 
 👩🏻‍💻 Check out my website at www.nicolemalku.com
 
